@@ -1,6 +1,3 @@
-function multiply(a,b) {
-  return a*b;
+for (var i = 0; i <= 6; i = i + 2) {
+  console.log(i);
 }
-const result = multiply(2,4);
-
-console.log(result);
